@@ -1,4 +1,4 @@
-erenity Landing Page
+# Berenity Landing Page
 
 Welcome to the Byteserenity Landing Page repository! This repository contains the source code for the landing page of Byteserenity, a health-focused blogging website aimed at empowering individuals to prioritize mental health and wellness.
 
